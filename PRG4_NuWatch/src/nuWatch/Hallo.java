@@ -6,6 +6,8 @@ public class Hallo {
 	
 	public Hallo() {
 		// TODO Auto-generated constructor stub
+		
+		// dies wurde geändert
 	}
 
 }
