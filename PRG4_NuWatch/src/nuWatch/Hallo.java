@@ -1,7 +1,7 @@
 package nuWatch;
 
 public class Hallo {
-	
+	//testBernd
 	int Test = 2;
 	
 	public Hallo() {
